@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: efbcf7c96b14b75408dd8ba3554b6c24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5402528668524661214
+    second: OPTION(1)
+  - first:
+      213: -2371013756580567757
+    second: GUI_titleButton_1
+  - first:
+      213: -8242621136299725063
+    second: GUI_titleButton_2
+  - first:
+      213: 8389328379207993270
+    second: GUI_titleButton_3
+  - first:
+      213: -5653683537715218363
+    second: GUI_titleButton_4
+  - first:
+      213: 270710694597959964
+    second: GUI_titleButton_5
+  - first:
+      213: 2853181375348293792
+    second: GUI_titleButton_6
+  - first:
+      213: 1726186361137787609
+    second: GUI_titleButton_7
+  - first:
+      213: 1732374250746516683
+    second: GUI_titleButton_8
+  - first:
+      213: 4114834823219744830
+    second: OPTION(1)
+  - first:
+      213: 7854530665207014610
+    second: GUI_titleButton_10
+  - first:
+      213: 1461673174495946681
+    second: GUI_titleButton_11
+  - first:
+      213: -8460411724736416592
+    second: GUI_titleButton_12
+  - first:
+      213: -7491793227017556325
+    second: GUI_titleButton_13
+  - first:
+      213: -7909272445060781505
+    second: GUI_titleButton_14
+  - first:
+      213: -7298818864663422742
+    second: EXIT(1)
+  - first:
+      213: 1504473320468083757
+    second: GUI_titleButton_16
+  - first:
+      213: 768649736042822008
+    second: GUI_titleButton_17
+  - first:
+      213: 1396246605252877311
+    second: GUI_titleButton_18
+  - first:
+      213: 4133937973249676180
+    second: GAMESTART(2)
+  - first:
+      213: 8384506927226576001
+    second: GUI_titleButton_20
+  - first:
+      213: 3950172886421040770
+    second: GUI_titleButton_21
+  - first:
+      213: -1470097809523178413
+    second: GUI_titleButton_22
+  - first:
+      213: -558824425413936156
+    second: GUI_titleButton_23
+  - first:
+      213: -5991019472786408373
+    second: GUI_titleButton_24
+  - first:
+      213: -8476841450488568339
+    second: GUI_titleButton_25
+  - first:
+      213: -1277334863011725364
+    second: GUI_titleButton_26
+  - first:
+      213: -8855514235748166896
+    second: GUI_titleButton_27
+  - first:
+      213: -8483857265088685807
+    second: OPTION(2)
+  - first:
+      213: 4774556424164154763
+    second: GUI_titleButton_29
+  - first:
+      213: 5089190155453133524
+    second: GUI_titleButton_30
+  - first:
+      213: 6357687424535375280
+    second: GUI_titleButton_31
+  - first:
+      213: 7666462042605641609
+    second: GUI_titleButton_32
+  - first:
+      213: 5920170934243783684
+    second: GUI_titleButton_33
+  - first:
+      213: 3319350864545114471
+    second: EXIT(2)
+  - first:
+      213: -2743355132338005972
+    second: GUI_titleButton_35
+  - first:
+      213: -8879977831616563816
+    second: GUI_titleButton_36
+  - first:
+      213: -5441956169458455416
+    second: GUI_titleButton_37
+  - first:
+      213: 3548422925383653115
+    second: GAMESTART(3)
+  - first:
+      213: -3754715823039560610
+    second: GUI_titleButton_39
+  - first:
+      213: 558819288587719166
+    second: OPTION(3)
+  - first:
+      213: 4722770737151657185
+    second: EXIT(3)
+  - first:
+      213: 460031712909573395
+    second: GAMESTART(1)
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GAMESTART(1)
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 960
+        width: 558
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f1fa94e28ff004282efe1bf8e65e64
+      internalID: 460031712909573395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPTION(1)
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 830
+        width: 319
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bc93625f0f7ee408cba69436878c0a
+      internalID: 5402528668524661214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXIT(1)
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 703
+        width: 185
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e830ded3c237c8e49b1f3d45738a5612
+      internalID: -7298818864663422742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAMESTART(2)
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 702
+        width: 558
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab5b82e496654d429413f2594d067f2
+      internalID: 4133937973249676180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPTION(2)
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 572
+        width: 319
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9122934a43e3af54a829f82211e91093
+      internalID: -8483857265088685807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXIT(2)
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 437
+        width: 194
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e627b8aaddc894a9188f029f8170e1
+      internalID: 3319350864545114471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GAMESTART(3)
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 274
+        width: 572
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ca55db17d5b7840a5a9d4e3585951f
+      internalID: 3548422925383653115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OPTION(3)
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 140
+        width: 340
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d9aa119b0424042abe3e6ec746508e
+      internalID: 558819288587719166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EXIT(3)
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 13
+        width: 207
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb27fbfa43bb8f4dba792d58db5f07f
+      internalID: 4722770737151657185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 99e9a5b3f38763941ba0219655b69807
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

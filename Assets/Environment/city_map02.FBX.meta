@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 5c46cd39072c7b7418fbf9b509f922b3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: apart
+    100002: Box001
+    100004: Box001 1
+    100006: Box030
+    100008: Box032
+    100010: Box033
+    100012: Box034
+    100014: Box035
+    100016: building_CRW_tower
+    100018: building_M_tower
+    100020: building_map_map_building_SF_Small_sf_small_polySurface2_small_sf
+    100022: building_polySurface2073_apart
+    100024: building_polySurface2073_apart001
+    100026: building_SF_Building_2
+    100028: building_SF_Building_3
+    100030: building_sf_cafe
+    100032: building_small_sf_map_map_building_SF_Small_sf_small_polySurface3
+    100034: building_small_sf_map_map_building_SF_Small_sf_small_polySurface4
+    100036: building_twin_tower
+    100038: //RootNode
+    100040: hotel
+    100042: Line001
+    100044: Line002
+    100046: map:map_building_M_house_Cube.004
+    100048: map:map_building_pCube44_M_hotel
+    100050: map:map_building_pCube44_M_hotel002
+    100052: map:map_building_v_11_Mesh1_old_house
+    100054: map:map_group1_pCube15
+    100056: map_building_M_10F_Mesh
+    100058: Object002
+    100060: Object003
+    100062: Object004
+    100064: office
+    100066: polySurface12
+    100068: polySurface2070
+    100070: SF_Building_1_building
+    100072: small_sf
+    100074: transform1
+    100076: transform2
+    400000: apart
+    400002: Box001
+    400004: Box001 1
+    400006: Box030
+    400008: Box032
+    400010: Box033
+    400012: Box034
+    400014: Box035
+    400016: building_CRW_tower
+    400018: building_M_tower
+    400020: building_map_map_building_SF_Small_sf_small_polySurface2_small_sf
+    400022: building_polySurface2073_apart
+    400024: building_polySurface2073_apart001
+    400026: building_SF_Building_2
+    400028: building_SF_Building_3
+    400030: building_sf_cafe
+    400032: building_small_sf_map_map_building_SF_Small_sf_small_polySurface3
+    400034: building_small_sf_map_map_building_SF_Small_sf_small_polySurface4
+    400036: building_twin_tower
+    400038: //RootNode
+    400040: hotel
+    400042: Line001
+    400044: Line002
+    400046: map:map_building_M_house_Cube.004
+    400048: map:map_building_pCube44_M_hotel
+    400050: map:map_building_pCube44_M_hotel002
+    400052: map:map_building_v_11_Mesh1_old_house
+    400054: map:map_group1_pCube15
+    400056: map_building_M_10F_Mesh
+    400058: Object002
+    400060: Object003
+    400062: Object004
+    400064: office
+    400066: polySurface12
+    400068: polySurface2070
+    400070: SF_Building_1_building
+    400072: small_sf
+    400074: transform1
+    400076: transform2
+    2100000: 03 - Default
+    2100002: 02 - Default
+    2100004: 14 - Default
+    2100006: 08 - Default
+    2100008: SF_Building_1SG1
+    2100010: SF_Building_2SG
+    2100012: SF_Building_3SG
+    2100014: initialShadingGroup
+    2100016: sf_twin_2_initialShadingGroup
+    2100018: lambert9SG
+    2100020: lambert10SG
+    2100022: lambert11SG
+    2100024: lambert1
+    2100026: 13 - Default
+    2100028: 01 - Default
+    2100030: 07 - Default
+    2100032: 09 - Default
+    2300000: Box001
+    2300002: Box001 1
+    2300004: Box030
+    2300006: Box032
+    2300008: Box033
+    2300010: Box034
+    2300012: Box035
+    2300014: building_CRW_tower
+    2300016: building_M_tower
+    2300018: building_map_map_building_SF_Small_sf_small_polySurface2_small_sf
+    2300020: building_polySurface2073_apart
+    2300022: building_polySurface2073_apart001
+    2300024: building_SF_Building_2
+    2300026: building_SF_Building_3
+    2300028: building_sf_cafe
+    2300030: building_small_sf_map_map_building_SF_Small_sf_small_polySurface3
+    2300032: building_small_sf_map_map_building_SF_Small_sf_small_polySurface4
+    2300034: building_twin_tower
+    2300036: Line001
+    2300038: Line002
+    2300040: map:map_building_M_house_Cube.004
+    2300042: map:map_building_pCube44_M_hotel
+    2300044: map:map_building_pCube44_M_hotel002
+    2300046: map:map_building_v_11_Mesh1_old_house
+    2300048: map_building_M_10F_Mesh
+    2300050: Object002
+    2300052: Object003
+    2300054: Object004
+    2300056: SF_Building_1_building
+    3300000: Box001
+    3300002: Box001 1
+    3300004: Box030
+    3300006: Box032
+    3300008: Box033
+    3300010: Box034
+    3300012: Box035
+    3300014: building_CRW_tower
+    3300016: building_M_tower
+    3300018: building_map_map_building_SF_Small_sf_small_polySurface2_small_sf
+    3300020: building_polySurface2073_apart
+    3300022: building_polySurface2073_apart001
+    3300024: building_SF_Building_2
+    3300026: building_SF_Building_3
+    3300028: building_sf_cafe
+    3300030: building_small_sf_map_map_building_SF_Small_sf_small_polySurface3
+    3300032: building_small_sf_map_map_building_SF_Small_sf_small_polySurface4
+    3300034: building_twin_tower
+    3300036: Line001
+    3300038: Line002
+    3300040: map:map_building_M_house_Cube.004
+    3300042: map:map_building_pCube44_M_hotel
+    3300044: map:map_building_pCube44_M_hotel002
+    3300046: map:map_building_v_11_Mesh1_old_house
+    3300048: map_building_M_10F_Mesh
+    3300050: Object002
+    3300052: Object003
+    3300054: Object004
+    3300056: SF_Building_1_building
+    4300000: Line001
+    4300002: Line002
+    4300004: Box001
+    4300006: Box030
+    4300008: SF_Building_1_building
+    4300010: building_SF_Building_2
+    4300012: building_SF_Building_3
+    4300014: building_sf_cafe
+    4300016: building_twin_tower
+    4300018: building_CRW_tower
+    4300020: building_M_tower
+    4300022: building_map_map_building_SF_Small_sf_small_polySurface2_small_sf
+    4300024: building_small_sf_map_map_building_SF_Small_sf_small_polySurface4
+    4300026: building_small_sf_map_map_building_SF_Small_sf_small_polySurface3
+    4300028: building_polySurface2073_apart
+    4300030: Box001
+    4300032: Object002
+    4300034: Object003
+    4300036: Object004
+    4300038: map_building_M_10F_Mesh
+    4300040: map:map_building_pCube44_M_hotel
+    4300042: map:map_building_pCube44_M_hotel002
+    4300044: map:map_building_M_house_Cube.004
+    4300046: building_polySurface2073_apart001
+    4300048: map:map_building_v_11_Mesh1_old_house
+    4300050: Box032
+    4300052: Box033
+    4300054: Box034
+    4300056: Box035
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
